@@ -1,2 +1,3 @@
 # slog
-Structured Logger (SLog) for GO. O
+Structured Logger (SLog) for GO.
+Full readme pending.
